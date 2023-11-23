@@ -1,3 +1,3 @@
 # Jhanny-Kin.github.io
 
-Personal Website
+Personal link tree: https://jhanny-kin.github.io
