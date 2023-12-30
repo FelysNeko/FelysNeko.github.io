@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.72fd6071.css",
-    "main.js": "/static/js/main.fc5ab4d2.js",
+    "main.js": "/static/js/main.f1ef35b7.js",
     "static/js/787.498e3191.chunk.js": "/static/js/787.498e3191.chunk.js",
     "static/media/firemoth-light.png": "/static/media/firemoth-light.273fefa3e3a169938718.png",
     "static/media/firemoth-dark.png": "/static/media/firemoth-dark.e0d799ce45c59c08ee7a.png",
     "static/media/firemoth-gold.png": "/static/media/firemoth-gold.91f2d6e1cbdc38903d4d.png",
     "index.html": "/index.html",
     "main.72fd6071.css.map": "/static/css/main.72fd6071.css.map",
-    "main.fc5ab4d2.js.map": "/static/js/main.fc5ab4d2.js.map",
+    "main.f1ef35b7.js.map": "/static/js/main.f1ef35b7.js.map",
     "787.498e3191.chunk.js.map": "/static/js/787.498e3191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72fd6071.css",
-    "static/js/main.fc5ab4d2.js"
+    "static/js/main.f1ef35b7.js"
   ]
 }
